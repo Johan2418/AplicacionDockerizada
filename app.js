@@ -1,6 +1,9 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Anderson Marlon Alvia Mero
+// Johan Franklin Chóez Suárez
+// Carlos Mauricio Quimiz Mendoza
+// Carlos Antonio Reyes Carvajal
+// Vinces Reyes Josue Alexander
 const express = require('express');
 const app = express();
 const port = 3000;
